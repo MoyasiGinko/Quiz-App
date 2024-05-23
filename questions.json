@@ -1,0 +1,112 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Jupiter", "Mars", "Earth", "Venus"],
+    "answer": 0
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": ["Jupiter", "Mars", "Mercury", "Venus"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of England?",
+    "options": ["London", "Paris", "Berlin", "Madrid"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": ["London", "Paris", "Rome", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": ["London", "Paris", "Berlin", "Moscow"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": ["London", "Beijing", "Berlin", "Madrid"],
+    "answer": 1
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["London", "Paris", "Berlin", "Tokyo"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["London", "Paris", "New Delhi", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["London", "Paris", "Berlin", "Canberra"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": ["London", "Paris", "Berlin", "Brasília"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": ["London", "Paris", "Berlin", "Ottawa"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": ["London", "Paris", "Berlin", "Pretoria"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": ["London", "Paris", "Berlin", "Cairo"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": ["London", "Paris", "Berlin", "Abuja"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "options": ["London", "Paris", "Berlin", "Mexico City"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": ["London", "Paris", "Berlin", "Buenos Aires"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "options": ["London", "Paris", "Berlin", "Santiago"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "options": ["London", "Paris", "Berlin", "Lima"],
+    "answer": 3
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "options": ["London", "Paris", "Berlin", "Bogotá"],
+    "answer": 3
+  }
+]
